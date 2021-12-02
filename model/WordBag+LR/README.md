@@ -1,0 +1,1 @@
+WordBag + Logistic Regression
